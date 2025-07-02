@@ -5,8 +5,8 @@
     <description>Full-Stack Developer</description>
     <link>https://janmilosh.me/</link>
     <atom:link href="https://janmilosh.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 02 Jul 2025 01:16:41 -0400</pubDate>
-    <lastBuildDate>Wed, 02 Jul 2025 01:16:41 -0400</lastBuildDate>
+    <pubDate>Wed, 02 Jul 2025 01:35:20 -0400</pubDate>
+    <lastBuildDate>Wed, 02 Jul 2025 01:35:20 -0400</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -22,9 +22,9 @@
         <guid isPermaLink="true">https://janmilosh.me/d3-presentation.html</guid>
         
         
-        <category>D3.js</category>
+        <category>d3.js</category>
         
-        <category>Presentations</category>
+        <category>presentations</category>
         
       </item>
     
@@ -41,9 +41,9 @@
         <guid isPermaLink="true">https://janmilosh.me/d3-weather-graph.html</guid>
         
         
-        <category>D3.js</category>
+        <category>d3.js</category>
         
-        <category>jQuery</category>
+        <category>jquery</category>
         
       </item>
     
@@ -60,11 +60,11 @@
         <guid isPermaLink="true">https://janmilosh.me/music-events.html</guid>
         
         
-        <category>Django</category>
+        <category>django</category>
         
-        <category>Python</category>
+        <category>python</category>
         
-        <category>JavaScript</category>
+        <category>javascript</category>
         
       </item>
     
@@ -79,7 +79,7 @@
         <guid isPermaLink="true">https://janmilosh.me/legacy-global-sports.html</guid>
         
         
-        <category>AngularJS</category>
+        <category>angularjs</category>
         
       </item>
     
@@ -98,9 +98,9 @@
         <guid isPermaLink="true">https://janmilosh.me/angular-task-application.html</guid>
         
         
-        <category>AngularJS</category>
+        <category>angularjs</category>
         
-        <category>Firebase</category>
+        <category>firebase</category>
         
       </item>
     
@@ -116,7 +116,7 @@
         <guid isPermaLink="true">https://janmilosh.me/prerender-talk.html</guid>
         
         
-        <category>Presentations</category>
+        <category>presentations</category>
         
       </item>
     
@@ -133,9 +133,9 @@
         <guid isPermaLink="true">https://janmilosh.me/stratesphere.html</guid>
         
         
-        <category>Django</category>
+        <category>django</category>
         
-        <category>Python</category>
+        <category>python</category>
         
       </item>
     
@@ -150,7 +150,7 @@
         <guid isPermaLink="true">https://janmilosh.me/full-page-timeline-slider.html</guid>
         
         
-        <category>jQuery</category>
+        <category>jquery</category>
         
       </item>
     
@@ -169,7 +169,7 @@
         <guid isPermaLink="true">https://janmilosh.me/chrome-extension-weather-app.html</guid>
         
         
-        <category>AngularJS</category>
+        <category>angularjs</category>
         
       </item>
     
@@ -188,9 +188,9 @@
         <guid isPermaLink="true">https://janmilosh.me/interactive-d3js-map.html</guid>
         
         
-        <category>D3.js</category>
+        <category>d3.js</category>
         
-        <category>Python</category>
+        <category>python</category>
         
       </item>
     
