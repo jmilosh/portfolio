@@ -3,7 +3,7 @@ date: 2013-03-18
 layout: post
 title: Mitech Systems, Ltd. Engineering Website
 categories:
-- WordPress
+- wordpress
 ---
 
 [![Mitech Systems, Ltd. Screenshot]({{ "/images/machinedesignohio.png" | prepend: site.baseurl | prepend: site.url }})](http://machinedesignohio.com)

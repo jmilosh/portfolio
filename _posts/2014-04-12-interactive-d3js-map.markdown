@@ -3,8 +3,8 @@ date: 2014-04-12
 layout: post
 title: Zoomable D3.js Interactive Map
 categories:
-- D3.js
-- Python
+- d3.js
+- python
 ---
 
 [![Interactive D3.js map]({{ "/images/mariposa-map.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/adjuster-map/)

@@ -3,7 +3,7 @@ date: 2013-04-12
 layout: post
 title: Color Palette Creator Web Application
 categories:
-- JavaScript
+- javascript
 ---
 
 [![Take-Five Color Palette Application]({{ "/images/colors.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/color-palette)

@@ -3,8 +3,8 @@ date: 2014-10-11
 layout: post
 title: D3.js Presentation
 categories:
-- D3.js
-- Presentations
+- d3.js
+- presentations
 ---
 
 [![D3.js presentation]({{ "/images/d3-presentation.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/d3js-presentation/)

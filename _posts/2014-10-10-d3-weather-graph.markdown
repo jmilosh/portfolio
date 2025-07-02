@@ -3,8 +3,8 @@ date: 2014-10-10
 layout: post
 title: D3.js Weather Graph
 categories:
-- D3.js
-- jQuery
+- d3.js
+- jquery
 ---
 
 [![D3.js weather graph]({{ "/images/weather-graph.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/weather-graph/)

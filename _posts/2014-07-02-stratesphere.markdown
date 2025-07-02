@@ -3,8 +3,8 @@ date: 2014-07-02
 layout: post
 title: StrateSphere.com CMS
 categories:
-- Django
-- Python
+- django
+- python
 ---
 
 [![StrateSphere.com CMS website]({{ "/images/stratesphere.png" | prepend: site.baseurl | prepend: site.url }})](http://stratesphere.com)

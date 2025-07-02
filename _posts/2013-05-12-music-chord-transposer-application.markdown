@@ -3,7 +3,7 @@ date: 2013-05-12
 layout: post
 title: Music Chord Transposer Application
 categories:
-- JavaScript
+- javascript
 ---
 
 [![Music chord transposer]({{ "/images/transposer.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/chord-transposer)

@@ -3,7 +3,7 @@ date: 2014-05-07
 layout: post
 title: Chrome Extension (Time/Weather)
 categories:
-- AngularJS
+- angularjs
 ---
 
 ![Weather Chrome Extension App.]({{ "/images/presently.png" | prepend: site.baseurl | prepend: site.url }})

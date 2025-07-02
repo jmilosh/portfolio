@@ -3,7 +3,7 @@ date: 2013-04-27
 layout: post
 title: Poker Hand Evaluator
 categories:
-- JavaScript
+- javascript
 ---
 
 [![Poker Hand Comparer]({{ "/images/poker.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/poker)

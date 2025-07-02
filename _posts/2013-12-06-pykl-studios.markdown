@@ -3,7 +3,7 @@ date: 2013-12-06
 layout: post
 title: Pykl Studios
 categories:
-- AngularJS
+- angularjs
 ---
 
 [![pykl.com]({{ "/images/pykl.png" | prepend: site.baseurl | prepend: site.url }})](http://pykl.com)

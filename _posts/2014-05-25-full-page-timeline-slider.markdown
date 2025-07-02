@@ -3,7 +3,7 @@ date: 2014-05-25
 layout: post
 title: Full-Page Timeline Slider
 categories:
-- jQuery
+- jquery
 ---
 
 [![timeline-slider]({{ "/images/timeline-slider.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/timeline-demo)

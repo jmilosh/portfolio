@@ -3,9 +3,9 @@ date: 2014-09-10
 layout: post
 title: Music Events
 categories:
-- Django
-- Python
-- JavaScript
+- django
+- python
+- javascript
 ---
 
 [![Music Events]({{ "/images/music-events.png" | prepend: site.baseurl | prepend: site.url }})](http://music-events.herokuapp.com)

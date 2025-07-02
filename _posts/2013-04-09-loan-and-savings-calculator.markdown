@@ -3,7 +3,7 @@ date: 2013-04-09
 layout: post
 title: Loan and Savings Calculator
 categories:
-- JavaScript
+- javascript
 ---
 
 [![Loan and savings calculator]({{ "/images/tvm-calculator.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/time-value-of-money)
