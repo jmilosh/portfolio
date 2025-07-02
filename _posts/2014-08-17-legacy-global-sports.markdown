@@ -3,7 +3,7 @@ date: 2014-08-17
 layout: post
 title: Legacy Global Sports
 categories:
-- AngularJS
+- angularjs
 ---
 
 ![Legacy Global Sports]({{ "/images/lgs.png" | prepend: site.baseurl | prepend: site.url }})

@@ -3,7 +3,7 @@ date: 2013-03-16
 layout: post
 title: Marlenehartzler.com, Flute Teacher Website
 categories:
-- WordPress
+- wordpress
 ---
 
 [![Marlene Hartzler website]({{ "/images/marlenehartzler.png" | prepend: site.baseurl | prepend: site.url }})](http://marlenehartzler.com)

@@ -3,7 +3,7 @@ date: 2014-03-24
 layout: post
 title: bmxlive.tv
 categories:
-- AngularJS
+- angularjs
 ---
 
 [![bmxlive.tv]({{ "/images/bmxlivetv.png" | prepend: site.baseurl | prepend: site.url }})](http://bmxlive.tv)

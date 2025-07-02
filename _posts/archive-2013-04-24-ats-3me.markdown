@@ -3,7 +3,7 @@ date: 2013-04-24
 layout: post
 title: Nuclear Testing Facility Website
 categories:
-- WordPress
+- wordpress
 ---
 
 [![ATS-3ME.com]({{ "/images/ats3me.png" | prepend: site.baseurl | prepend: site.url }})](http://ats-3me.com)

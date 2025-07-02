@@ -3,7 +3,7 @@ date: 2013-08-11
 layout: post
 title: Coating Line Simulation Using D3.js
 categories:
-- D3.js
+- d3.js
 ---
 
 [![Coating line simulation animation]({{ "/images/animation.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/coating-animation)

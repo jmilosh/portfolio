@@ -3,7 +3,7 @@ date: 2012-11-01
 layout: post
 title: House Construction Photo Journal
 categories:
-- WordPress
+- wordpress
 ---
 
 [![Round House Project]({{ "/images/roundhouseproject.png" | prepend: site.baseurl | prepend: site.url }})](http://house.milosh.me)
