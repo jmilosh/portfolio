@@ -3,7 +3,7 @@ title: Jan Milosh
 email: janmilosh@gmail.com
 description: "Full-Stack Developer"
 baseurl: ""
-url: "https://jmilosh.github.io"
+url: "https://janmilosh.me"
 twitter_username: janmilosh
 github_username:  janmilosh
 paginate: 5
@@ -11,3 +11,5 @@ paginate: 5
 # Build settings
 markdown: kramdown
 permalink: /:title.html
+
+plugins: [jekyll-paginate]
